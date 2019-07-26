@@ -1,6 +1,5 @@
 # springboot 学习笔记
-
-资源文件映射，找不资源的解决方法
+**1、资源文件映射，找不properties的解决方法**  
   如果要用 @ConfigurationProperties 映射其他非 application.properties 资源文件的属性
   一定要在 pom 里引用 
   
