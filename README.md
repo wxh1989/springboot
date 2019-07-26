@@ -13,5 +13,5 @@
 如：我将文件上传到 **"E:\\ideaproject\\upload\\"** 这个文件夹，
 通过这个URL去访问 **https:///127.0.0.1:8888/springBoot/uploadFile/xx.jpg** 会报404错误。    
     
- ![error](http://www.baidu.com/img/bdlogo.gif)
+ ![error](https://github.com/wxh1989/springboot/blob/master/images/404.png)
 	 
