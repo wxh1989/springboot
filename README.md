@@ -26,7 +26,7 @@
 public class WebMvcConfig  implements WebMvcConfigurer { 
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry registry) { 
-        registry.addResourceHandler("/static/*//*").
+        registry.addResourceHandler("/static/**").
                 addResourceLocations("classpath:/static/");
         //这一句代码 说明将/uploadFile/** 这样的路径映射到 实体路径
         registry.addResourceHandler("/uploadFile/**").
