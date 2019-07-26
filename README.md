@@ -11,7 +11,7 @@
 **2、解决: 上传文件无法浏览**  
 如果文件上传到电脑的某个文件夹内是无法直接通过URL访问的。
 如：我将文件上传到 **"E:\\ideaproject\\upload\\"** 这个文件夹，
-通过这个URL去访问 **https:///127.0.0.1:8888/springBoot/uploadFile/xx.jpg**会报404错误。
-
-	![errorMessage](https://github.com/zhen7216/MapTracking/raw/master/Resources/IMG_6846.PNG) 
+通过这个URL去访问 **https:///127.0.0.1:8888/springBoot/uploadFile/xx.jpg** 会报404错误。    
+    
+ ![error](http://www.baidu.com/img/bdlogo.gif)
 	 
